@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_category">Button Category</string>
+    <string name="hello_home_fragment">Hello Home Fragment</string>
+</resources>
